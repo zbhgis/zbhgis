@@ -1,6 +1,6 @@
 ---
 
-# 👋 Hi there!
+# zbhgis
 
 <img align="right" src="https://img.shields.io/badge/-GIS-blue?style=for-the-badge&logo=geographic-information-system&logoColor=white" alt="GIS" />
 <img align="right" src="https://img.shields.io/badge/-Remote%20Sensing-green?style=for-the-badge&logo=satellite&logoColor=white" alt="Remote Sensing" />
@@ -8,7 +8,7 @@
 
 ## 🌍 About Me
 
-I'm a researcher specializing in **Geographic Information Systems (GIS)**, **Remote Sensing**, and **Ecological Studies**. My work focuses on leveraging geospatial technologies to address environmental challenges and promote sustainable development.
+I'm a researcher specializing in **GIS**, **Remote Sensing**, and **Ecological Studies**. My work focuses on leveraging geospatial technologies to address environmental challenges and promote sustainable development.
 
 - 🔭 Currently working on projects related to land cover analysis, ecological modeling, and climate change impact assessment.
 - 🌱 Passionate about open-source tools, data visualization, and geospatial data science.
