@@ -18,11 +18,8 @@ I'm a researcher specializing in **Geographic Information Systems (GIS)**, **Rem
 
 ## 📬 Contact Me
 
-- **CSDN**: [My CSDN Blog](https://your-csdn-profile-url)  
-- **GitHub**: [My GitHub Profile](https://github.com/your-github-username)  
+- **GitHub**: [zbhgis](https://github.com/zbhgis)  
 - **Email**: zbhgisrs@gmail.com  
-
-Feel free to reach out for collaborations, discussions, or just to say hello! 😊
 
 ---
 
