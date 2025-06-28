@@ -10,3 +10,8 @@
 ### 🌐 Tools
 - **Software**: ArcGIS/ArcGIS Pro, QGIS, ENVI, Google Earth Engine
 - **Languages**: Python (NumPy, Pandas, Scikit-learn, Matplotlib, Seaborn, Folium, Plotly)
+
+### 🔗 Connect with Me
+<p align="center"> 
+    <a href="https://github.com/zbhgis" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white"/></a> 
+    <a href="https://zbhgis.blog.csdn.net" target="_blank"><img src="https://img.shields.io/badge/CSDN-FF0000?style=flat&logo=c&logoColor=white"/></a> 
