@@ -14,5 +14,5 @@
 ### 🔗 Connect with Me
 - **Github**:: [https://github.com/zbhgis](https://github.com/zbhgis)
 - **CSDN**: [https://zbhgis.blog.csdn.net](https://zbhgis.blog.csdn.net)
-- **Blog**: [https://zbhgis.github.io](https://zbhgis.github.io)
+- **Github Blog**: [https://zbhgis.github.io](https://zbhgis.github.io)
 - **Email**: zbhgisrs@gmail.com
