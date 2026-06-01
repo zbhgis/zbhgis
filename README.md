@@ -7,7 +7,8 @@
   <img src="https://img.shields.io/badge/-Ecological%20Modeling-8FBC8F?style=flat&logo=leaflet&logoColor=white"/>
 </p>
 
-*工作上专注后端开发与 Agent 开发，科研上专注地学软件实践与数理模型算法。保持对技术的热爱。*
+*工作上专注后端开发与 Agent 开发，科研上专注地学软件实践与数理模型算法（以后应该不搞科研了）。*
+* 时刻保持对技术的热爱。*
 
 ### 🛠️ Tech Stack & Tools
 
