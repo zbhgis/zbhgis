@@ -12,7 +12,8 @@
 - **Languages**: Python (NumPy, Pandas, Scikit-learn, Matplotlib, Seaborn, Folium, Plotly)
 
 ### 🔗 Connect with Me
-- **Github**:: [https://github.com/zbhgis](https://github.com/zbhgis)
-- **CSDN**: [https://zbhgis.blog.csdn.net](https://zbhgis.blog.csdn.net)
 - **Personal Website**: [https://zbhgis.com](https://zbhgis.com)
-- **Email**: zbhgisrs@gmail.com
+- **Github**: [https://github.com/zbhgis](https://github.com/zbhgis)
+- **Github.io**: [https://zbhgis.github.io](https://zbhgis.github.io)
+- **CSDN**: [https://zbhgis.blog.csdn.net](https://zbhgis.blog.csdn.net)
+- **Email**: 2935624171@qq.com / zbhgisrs@gmail.com
