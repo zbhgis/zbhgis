@@ -1,4 +1,4 @@
-## 🌍 zbhgis （Focus on GIS, RS, Ecology）
+## 🌍 zbhgis （Focus on Java, Python, RSGIS）
 
 <p align="center">
   <img src="https://img.shields.io/badge/-GIS-1573B3?style=flat&logo=arcgis&logoColor=white"/>
@@ -14,6 +14,5 @@
 ### 🔗 Connect with Me
 - **Github**:: [https://github.com/zbhgis](https://github.com/zbhgis)
 - **CSDN**: [https://zbhgis.blog.csdn.net](https://zbhgis.blog.csdn.net)
-- **Github Blog**: [https://zbhgis.github.io](https://zbhgis.github.io)
+- **Personal Website**: [https://zbhgis.com](https://zbhgis.com)
 - **Email**: zbhgisrs@gmail.com
-- **Wechat**: haohandixue321
