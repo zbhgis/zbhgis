@@ -12,7 +12,7 @@
 ### 🛠️ Tech Stack & Tools
 
 - **Languages**: Java, Python, JavaScript, TypeScript
-- **Frameworks**: SpringBoot, LangChain4j, FastApi, Vue, Nextjs, Leaflet
+- **Frameworks**: SpringBoot, LangChain, LangGraph, FastApi, Vue, Nextjs, Leaflet
 - **Databases**: MySQL, Redis, PostgreSQL, DuckDB
 - **Dev & AI Tools**: Git, Docker, IDEA, VsCode, Codex, Claude Code, Open Code
 - **GIS & RS Software**: GEE, ArcGIS, ArcGIS Pro, QGIS, ENVI
