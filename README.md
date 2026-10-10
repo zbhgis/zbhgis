@@ -25,3 +25,4 @@
 - **GitHub.io**: [https://zbhgis.github.io](https://zbhgis.github.io) — 博客备用站（数月同步一次）
 - **CSDN**: [https://zbhgis.blog.csdn.net](https://zbhgis.blog.csdn.net) — 早期博客站（数月同步一次）
 - **Email**: zbhgisrs@gmail.com
+- **WeChat**: haohandixue321
