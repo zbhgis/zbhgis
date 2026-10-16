@@ -14,9 +14,8 @@
 - **Languages**: Java, Python, JavaScript, TypeScript
 - **Frameworks**: SpringBoot, LangChain, LangGraph, FastApi, Vue, Nextjs, Leaflet
 - **Databases**: MySQL, Redis, PostgreSQL, DuckDB
-- **Dev & AI Tools**: Git, Docker, IDEA, VsCode, Codex, Claude Code, Open Code
 - **GIS & RS Software**: GEE, ArcGIS, ArcGIS Pro, QGIS, ENVI
-- **Research**: Remote Sensing Change Detection, Species Distribution Modeling, Spatiotemporal Big Data Analysis
+- **Research**: Species Distribution Modeling, Spatiotemporal Big Data Analysis
 
 ### 🔗 Connect with Me
 
